@@ -1,2 +1,2 @@
 test confict
-i am on master branch
+i am on master branch, fix confict ok
